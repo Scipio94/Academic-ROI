@@ -65,5 +65,5 @@ The implementation of iReady resources by the Foundation Academies’ academic t
 
 ## Appendix
 
-- Access Slide Deck HERE
+- [Slide Deck](https://docs.google.com/presentation/d/1c7ZjW2jfpW3g-nDOMoKNT-my7PA6CjBUEQvobidzwEY/edit?usp=sharing)
 
