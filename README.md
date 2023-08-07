@@ -60,7 +60,7 @@ The cost of the iReady resources for K-8 was $20,757.50 for a cohort of 283 K-8 
 
 ## Conclusion
 
-The implementation of iReady resources by the Foundation Academies’ academic team to achieve their priority focus in ELA was successful. 78%, 222, of the students in the original K-8 Tier 2 cohort following the initial iReady diagnostic moved into Tier 1. Additionally, there was a positive fiscal return, for every dollar spent on iReady resources there can be an expected increase of approximately 1% in the percentage of students in Tier 1.
+The implementation of iReady resources by the Foundation Academies’ academic team to achieve their priority focus in ELA was successful. 78%, 222, of the students in the original K-8 Tier 2 cohort following the initial iReady diagnostic moved into Tier 1. Additionally, there was a positive fiscal return, for every dollar spent on iReady resources there can be an expected increase of approximately 1% in the percentage of students in Tier 1 on average.
 
 
 ## Appendix
