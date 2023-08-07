@@ -54,6 +54,8 @@ Following the final iReady diagnostic 222 students, 78%, of students moved into 
 
 3. What was the A-ROI of iReady?
 
+The A-ROI is calculated by dividing the academic outcome, percentage of students that achieved Tier 1 status, by the cost of iReady resources per student. The quotient will be the average expected increase per dollar spent.
+
 The cost of the iReady resources for K-8 was $20,757.50 for a cohort of 283 K-8 students that were Tier 2 following the initial iReady diagnostic, a cost of $73.35 per student. The goal of the priority focus was to move these students into Tier 1. Following the final iReady diagnostic 222 students, 78 %, of students were in Tier 1. If you divide the percentage of students that achieved Tier 1 status with the K-8 Tier 2 cohort by the cost per student 1.06 you’d get a quotient of 1.06, meaning that for every dollar spent Foundation Academy can expect to see approximately a 1% increase in the percentage of students in Tier 1. 
 
 ## Conclusion
